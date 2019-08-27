@@ -8,4 +8,4 @@ dependencies:
   - matplotlib
   - scikit-learn
   - pandas
-  - graphviz
+  - python-graphviz
